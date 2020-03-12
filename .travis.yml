@@ -1,0 +1,23 @@
+language: python
+python:
+  - 3.8.1
+env:
+  matrix:
+before_install:
+- chmod +x ./.deploy_scripts/tlsetup.sh
+- ./.deploy_scripts/tlsetup.sh
+install:
+- pip install -r requirements.txt
+script:
+- make deploy
+- make pdf
+after_success:
+- cp ./_build/latex/Aid_from_the_Air.pdf ./_build/html/Aid_from_the_Air.pdf
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: "$GH_TOKEN"
+  keep-history: false
+  on:
+    branch: publish
+  local_dir: _build/html
