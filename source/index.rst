@@ -6,6 +6,8 @@
 A review of drone use in the RCRC global network
 ================================================
 
+You can also download a `PDF of the report <./Aid_from_the_Air.pdf>`_.
+
 .. toctree::
 	:maxdepth: 2
 
