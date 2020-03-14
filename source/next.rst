@@ -1,7 +1,3 @@
-
-|
-|
-
 ########################
 What should happen next?
 ########################
@@ -39,9 +35,21 @@ Drone data processing software is expensive. Multiple societies interviewed for 
 
 Open source and free software for drone data processing, analysis and sharing is widely available, but few societies contacted for this report said that they currently use it.  This may be due to awareness: organizations may not know that free options exist. This may also be related to ease of use: open source and free software can be more difficult to use and more technically complicated to install than paid software packages.
 
+.. figure:: /images/pmi-posms.jpg
+  :alt: several Intel NUCs with POSM and Missing Maps stickers.
+  :align: center
+  
+  Intel NUCs running open source POSM and OpenDroneMap software to process drone imagery. | *Credit: PMI.* 
+
 There are other benefits to uploading drone data to public platforms like OpenAerialMap (although the possibility of that data being used in unethical ways should always be considered). A number of drone-using organizations can work together to create high-resolution base maps of the areas that they operate in, reducing the need for each unit or organization to collect their own drone data.  Some organizations, like the Indonesian Red Cross, regularly re-use the drone imagery that they collect for other projects and mapping activities. 
 
 Informations sharing about free and open source software should be a key component of RCRC wide information sharing regarding drone technology. Red Cross drone users that are comfortable with using open source software should work to raise awareness of this software's existence among other Societies. They should consider developing quick-start guidelines for using this software that can be disseminated in multiple languages. They might also consider offering personalized advice and technical support to organizations who wish to begin to use free and open source software (as their availability allows). 
+
+.. figure:: /images/oam-palanog.png
+  :alt: Imagery on OpenAerialMap.
+  :align: center
+  
+  Imagery of a barangay in the Philippines uploaded to OpenAerialMap.
 
 *************************************************
 Developing organizational standards for drone use
@@ -55,6 +63,12 @@ The humanitarian drone sector still lacks a centralized set of best practices, t
 The RCRC global network should build an initial strategy for developing and disseminating a set of general ethical guidelines and best practices regarding drone use.  These guidelines will provide new drone users with a clear starting point as they consider how best to use the technology: they will also help ensure that all RCRC drone users are operating the technology in ethical, safe ways. These guidelines should include guidance around a variety of topics, including best practices for public interaction, the ethical use and collection of aerial data and images, procedures for crashes and accidents, guidance for assessing drone pilot competency, and more. These guidelines should also take into account current research - both academic and other sources - around drone use in disaster response and humanitarian aid. 
 
 Once initially released, these centrally-developed guidelines could then be expanded upon, modified, or localized by individual National Societies. These guidelines could be regularly updated, discussed, and improved upon by means of regular convenings or meetings. They should also be informed by ongoing research work into humanitarian drone use over time, as well as work by other NGOs in the sector. Ongoing drone-related activities by RCRC societies should be regularly reviewed, ensuring that both successes and failures are documented and taken into account so that best practices may be updated over time. 
+
+.. figure:: /images/webodm.png
+  :alt: A processed scene in the WebODM interface for OpenDroneMap.
+  :align: center
+  
+  A processed scene viewed in the WebODM interface for OpenDroneMap.
 
 *******************************************************
 Supporting further research into humanitarian drone use
@@ -85,6 +99,13 @@ Developing drone logistics
 RCRC National Societies need to find ways to use drones efficiently, and that may mean that not all RCRC units or organizations need to own and operate their own drones and their own teams of drone pilots. Efficiency may mean finding ways to share drone hardware and drone capabilities across different units within a country, and even outside of it.  
 
 Some organizations, including the New Zealand Red Cross, the Kenya Red Cross, and the ICRC, are considering developing drone programs that can operate both outside of the RCRC global network and outside of their home countries. Some are also considering the benefits of partnering with other organizations, such as WeRobotics Flying Labs, to collect data on their behalf. 
+
+.. figure:: /images/german-rc-dji-matrice200.jpeg
+   :alt: Drone DJI Matrice 200 with FLIR XT2 thermal Camera.
+   :align: center
+   
+   Drone DJI Matrice 200 with FLIR XT2 thermal Camera. | *Credit: Kai Brunner, German Red Cross - Kreisverband Limburg e.V..*
+
 
 ***********************************************
 Developing methodologies for effective data use

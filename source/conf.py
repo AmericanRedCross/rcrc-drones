@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Drone use in the RCRC'
+project = u'Drones in the RCRC'
 copyright = u'2020, Faine Greenwood, Dan Joseph'
 author = u'Faine Greenwood, Dan Joseph'
 
@@ -207,7 +207,7 @@ latex_elements = {
 
     # The font size ('10pt', '11pt' or '12pt').
     #
-    'pointsize': '12pt',
+    'pointsize': '10pt',
     
     'extraclassoptions': 'openany',
 

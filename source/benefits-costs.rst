@@ -1,7 +1,3 @@
-
-|
-|
-
 #####################################################
 Benefits and costs of drone use for disaster response
 #####################################################
@@ -12,8 +8,8 @@ Drones, like any new technology, invite new benefits and costs. We present the f
 The benefits
 ************
 
-Collecting low-cost, high quality geospatial data. 
-==================================================
+Collecting low-cost, high quality geospatial data
+=================================================
 
 Drones generally offer a low-cost and easy to use means of collecting high-quality geospatial data after disaster. In many countries and scenarios, drones represent the only realistic or affordable means of collecting aerial imagery: manned aircraft and usable satellite images are not options. Drones permit disaster responders to quickly create usable, actionable maps, and to rapidly impact a disaster's effects on the community. 
 
@@ -27,14 +23,26 @@ Drone-collected data makes it easier and cheaper for organizations to plan futur
 
 Situational awareness during disaster 
 =====================================
-
-    | *After the [landslide]  disaster, we wanted to know what the situation was visually, and that was impossible without drones. The ground team was moving, but it was very soggy, very wet, and continuously raining - they weren't able to reach the site. The drone imagery helped us do that kind of mapping, where we were looking at the before situation and the after situation. We were able to count how many houses were affected, how many bridges were washed away, what roads were cut off.*
-    | - Joel Kitutu, Uganda Red Cross Society
     
     | *We have a lot of old bombs from WWII lying around. There was an explosion in this field… The police thought it might lead to a sinkhole, or an old mining path.  We went up with the drone and looked at what was there, to minimize the risk for the police or fire department.*
     | - Kai Brunner, German Red Cross
 
+.. figure:: /images/german-rc-ww2-bomb.jpg
+   :alt: image of a bomb crater.
+   :align: center
+   
+   Investigation for Police. Self explosion of a 250 kg. WWII aircraft bomb in Ahlbach, Germany, 2019. | *Credit: Kai Brunner, German Red Cross - Kreisverband Limburg e.V..*
+
 Drones are an "eye in the sky," a means of gaining a birds-eye view of a given scenario or situation. Humanitarians can use drones to gain a quick, overview idea of what they are responding to, and to make quicker decisions about which areas they should attempt to reach first, and how they might best get there. This type of situational awareness information does not require computationally demanding processing. Using this information simply requires a functioning drone that is capable of instantly outputting images to a connected mobile device, which most modern consumer drones are capable of doing.  
+
+    | *After the [landslide]  disaster, we wanted to know what the situation was visually, and that was impossible without drones. The ground team was moving, but it was very soggy, very wet, and continuously raining - they weren't able to reach the site. The drone imagery helped us do that kind of mapping, where we were looking at the before situation and the after situation. We were able to count how many houses were affected, how many bridges were washed away, what roads were cut off.*
+    | - Joel Kitutu, Uganda Red Cross Society
+
+.. figure:: /images/malawi-rc-karonga-flooding.jpg
+   :alt: flooding observed from the air.
+   :align: center
+
+   Flooding in Karonga, Malawi. | *Credit: Malawi Red Cross Society.* 
 
 Interviewees for this report described using drones in this way in a number of occasions and contexts, such as searching for safe entry ways into disaster areas, gaining a sense of the overall scale of flooding events, and conducting an initial overview of areas with potential unexploded ordnance. These initial, overview images can also be used to quickly identify areas that should be mapped in more detail. 
 Search and Rescue Operations
@@ -43,6 +51,13 @@ Search and Rescue Operations
     | - Kai Brunner, German Red Cross
 
 Search and rescue operations often rely upon aircraft to search for missing people over large geographic areas. Manned aircraft may not always be available and are expensive to operate. With this in mind, a number of search and rescue-focused Red Cross societies have begun to experiment with using drone technology to assist both land and water-based rescues. The German Red Cross is working to combine both drone-assisted searches and searches carried out with dogs: the drones search areas that are not heavily forested, while dogs are sent to areas that are too dense with foliage for the drones to "see" effectively. The New Zealand Red Cross intends to work with academic researchers to develop drone hardware and software for off-shore search and rescue operation, which could then be deployed throughout the Pacific region. A number of private companies are also beginning to develop specialized software for drone-assisted search and rescue operations. 
+
+.. figure:: /images/ecuador-rc-pinar-alto.jpg
+   :alt: orthophoto map.
+   :align: center
+   
+   Orthophoto of the Pinar Alto alluvium emergency response. | *Credit: Ecuadorian Red Cross National Disaster Risk Reduction Program.*
+   
 
 Striking, compelling imagery for PR and communications
 ======================================================
@@ -53,6 +68,12 @@ Striking, compelling imagery for PR and communications
 Drone imagery presents a compelling, aerial view of the world, and a number of Red Cross societies are incorporating drone photos and video into their PR and communication strategies.  Before the rise of inexpensive consumer drones, capturing these striking "big picture" views of disaster areas and operations was often prohibitively expensive for humanitarians.
 
 Today's drones are capable of collecting high-resolution photographs and video at a lower price point than is possible via manned aerial photography,  making it easier for humanitarians to quickly collect and disseminate imagery to the public. Drone images are particularly valuable for giving the public a sense of the size and scale of a given disaster, such as aerial photographs of a vast flooded area, or videos depicting the enormous size of a camp for people displaced by disaster. 
+
+.. figure:: /images/american-rc-canaan3.jpg
+  :alt: Aerial view of a construction site in Canaan, Haiti.
+  :align: center
+  
+  Aerial view of a community infrastructure construction site in Canaan, Haiti. | *Credit: Matthew Gibb, American Red Cross.* 
 
 Positive community responses
 ============================
@@ -68,6 +89,12 @@ While some reported that community members were curious and wanted to ask questi
 
 Perhaps the fact that the drones are flown by the RCRC is a relevant factor in the technology's positive reception. Recent research from the US [#89]_ found that the public holds considerably more positive views of drones that are used for public safety than they hold of drones used for other purposes. [#90]_ RCRC societies may want to ensure that their drones are clearly marked with RCRC insignia. They should also ensure that communities are notified of drones activities as widely as possible, and that communities are (when possible) given access to the data that drones collect. 
 
+.. figure:: /images/american-rc-philippines.jpg
+  :alt: A crowd of interested children observe the progress of a drone mapping mission in Leyte, Philippines.
+  :align: center
+  
+  A crowd of interested children observe the progress of a drone mapping mission in Leyte, Philippines. | *Credit: Ylla De Ocampo, Philippine Red Cross.* 
+
 Community mapping work
 ======================
 
@@ -80,6 +107,24 @@ Drones are becoming an increasingly common sight during community mapping projec
     | - María Fernanda Ayala, Ecuadorian Red Cross
 
 Drone mapping exercises also, ideally, leave communities with raw data that they can use for their own projects and purpose. Many interviewees described positive interactions and collaborations with community members around drone mapping projects. 
+
+In an interview, Husni Mubarok, IFRC Indonesia, IM Senior Officer described the typical workflow his team follows when they fly drones in the field. We provide it below as a representative example of how drone teams plan flights, capture data, and process that data for practical use. 
+
+    *First, we prepare the flight plan based on a request from the Disaster Management department  at PMI (the Indonesian Red Cross) Once we get the location, then we do an initial remote survey of the area.* 
+
+    *We create a flight path and plan, and prepare our technical kit. We meet with local authorities and get permission to fly first. We then go to the field and fly the drone.* 
+
+    *Once the flight is done, the images are sorted, so we know that there is clean imagery to be processed into an orthomosiac (a map made from many drone photographs).*
+
+    *Once we get the mosaic imagery, we upload it to Open Aerial Map. Then, we contact OpenStreetMap Indonesia, so they can  update their tasking manager with the latest TMS (Tile Map Service). Then once we update all those things, we conduct a small mapathon with the local volunteers [using the drone map],  so that we have full digitization of the area. We map out roads, building footprints, waterways, and more.*
+
+    *Once that's done, we continue to create the final basemap: if it's required, we create an atlas. Then, we distribute the map to the Vulnerability and Capacity Assessment Team.”  Once it is done we will continue with the work of creating the basemap. If it is required… we will create an atlas. Then, we will distribute the map to the Vulnerability and Capacity Assessment (VCA) team.*
+
+.. figure:: /images/pmi-1.jpg
+  :alt: preparing to launch a drone.
+  :align: center
+  
+  Preparing for a drone mission to do displaced persons camp mapping during the 2018 recovery assessment in Indonesia. | *Credit: Husni Mubarok, IFRC & Laura Ruiz, FACT IM.* 
 
 **************
 The challenges
@@ -144,6 +189,12 @@ While adequate training in both piloting and data processing is essential, locat
 
 While some interviewees within Societies currently rely upon drones operated by partners for drone-data collection, many expressed interest in building their own, internal drone capacity in the future: a model where they have control over when they fly, where they fly, and how much it will cost. 
 
+.. figure:: /images/german-rc-mission-software.jpeg
+   :alt: Ground Station Software and Drone live stream.
+   :align: center
+   
+   Ground station software and drone live stream. | *Credit: Kai Brunner, German Red Cross - Kreisverband Limburg e.V..*
+
 Technical and environmental constraints
 =======================================
 
@@ -164,6 +215,13 @@ Drones also require an adequate number of batteries to operate. Generally, each 
 Finally, drone pilots must take into account how local communities will respond to drones. Sometimes these responses are hostile: drone pilots in the United States, including those working in disaster response operations, have reported being shot at or physically threatened. 
 
 Even well-meaning community members may unintentionally interfere with drone operations.. One interviewee reported an incident where a large, curious crowd gathered around the drone pilot during a search and rescue operation, making it difficult for the flight team to fly safely and to communicate with one another. In some situations, teams may want to consider assigning one team member to community relations: this person can answer questions, describe the data that's being collected, and can keep people safely away from where the drone is flying. 
+
+.. figure:: /images/belize-rc-accident.jpeg
+  :alt: Damage to a drone after a rough landing.
+  :align: center
+  
+  Examining damage to a drone after a rough landing. | *Credit: Feliciana Vernon, Belize Red Cross.* 
+
 
 Bad reputation of drone technology 
 ==================================
@@ -186,6 +244,13 @@ Concern around data privacy and security
 Data privacy is both a regulatory and an ethical concern. Some places, like the European Union, mandate that drone pilots adhere to strict data privacy laws: Societies who use drones in these places must ensure that they are adhering to these rules in their operations. 
 
 Other countries may lack clear guidance on data privacy and security, placing responsibility for data protection on the shoulders of Society drone pilots themselves. Drone pilots must take into account the possibility of the drone data that they collect making its way into the wrong hands. They must also weigh the costs versus the benefits of making the drone data that they collect publicly available via platforms like OpenDroneMap and the Humanitarian Data Exchange. While some valuable resources exist that help drone users make these ethical calls, such as the ICRC's Handbook on Data Protection in Humanitarian Aid, there is still not enough practical guidance or operational information available. [#91]_
+
+.. figure:: /images/senegal-rc-2.jpg
+  :alt: Senegalese Red Cross and Flying Labs.
+  :align: center
+  
+  Senegal Flying Labs pilots communicating with community members during a Senegalese Red Cross assessment. | *Credit: Mamadou Gueye, Senegalese Red Cross.* 
+
 
 
 

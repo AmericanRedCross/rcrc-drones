@@ -8,6 +8,12 @@ A review of drone use in the RCRC global network
 
 You can also download a `PDF of the report <./Aid_from_the_Air.pdf>`_.
 
+.. figure:: /images/american-rc-canaan2.jpg
+   :alt: Aerial view from a drone of a Haitian Red Cross Land Cruiser.
+   :align: center
+   
+   The view from a drone taking off to map in Canaan, Haiti. | *Credit: Dan Joseph, American Red Cross.*
+
 .. toctree::
 	:maxdepth: 2
 

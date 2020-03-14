@@ -1,7 +1,3 @@
-
-|
-|
-
 ##########
 Conclusion
 ##########
@@ -18,4 +14,4 @@ Our research demonstrates that there is considerable demand amongst National Soc
 
 The IFRC should find ways to collect, organize, and disseminate the knowledge that these drone users possess across the entire Movement. This may take the form of formal research, reports, convenings, manuals, social networking websites or groups, and other resources that can be made widely available to everyone. 
 
-The IFRC should also support (whether on its own or in collaboration with the ICRC) the development of Movement-wide technical and ethical standards for drone use. This will provide Societies with a clear framework for setting up their own drone programs and operations. These standards will provide new and existing National Society drone programs with information that they need to assess the competency of their own pilots and the competency of vendors, ensuring that the IFRC does not inadvertently associate itself with dangerous or unethical activities. 
+The IFRC should also encourage and facilitate the development of Movement-wide technical and ethical standards for drone use. This will provide National Societies with a clear framework for setting up their own drone programs and operations. These standards will provide new and existing National Society drone programs with information that they need to assess the competency of their own pilots and the competency of vendors, ensuring that the IFRC does not inadvertently associate itself with dangerous or unethical activities. 
