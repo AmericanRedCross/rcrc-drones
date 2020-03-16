@@ -189,6 +189,9 @@ html_sidebars = {
 }
 
 
+numfig = True
+numfig_secnum_depth = 0
+
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
