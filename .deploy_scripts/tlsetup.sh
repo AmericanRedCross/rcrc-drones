@@ -5,6 +5,7 @@
 sudo apt-get --quiet update
 
 sudo apt install texlive-latex-extra
+sudo apt-get install texlive-fonts-recommended
 
 # This includes the recommended fonts, LaTeX packages, and the XeLaTeX
 # compiler
