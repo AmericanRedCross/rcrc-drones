@@ -25,17 +25,19 @@
 #
 
 # Update aptitude repository
-sudo apt-get -qq update
+sudo apt-get --quiet update
+
+sudo apt install texlive-full
 
 # Install TexLive 2015 Distribution
 # This includes the recommended fonts, LaTeX packages, and the XeLaTeX
 # compiler
-sudo apt-get install -y --no-install-recommends texlive-fonts-recommended \
-    texlive-latex-extra \
-    texlive-fonts-extra \
-    dvipng \
-    texlive-latex-recommended \
-    texlive-xetex
+# sudo apt-get install -y --no-install-recommends texlive-fonts-recommended \
+#     texlive-latex-extra \
+#     texlive-fonts-extra \
+#     dvipng \
+#     texlive-latex-recommended \
+#     texlive-xetex
 
 # Install decompression tool to extract LaTex packages later on
 sudo apt-get install -y xzdec
@@ -47,19 +49,19 @@ sudo apt-get install -y biber
 sudo apt-get install latexmk
 
 # Initialize user tree for installing additional packages
-sudo tlmgr init-usertree
+# sudo tlmgr init-usertree
 
 # Define repository for obtaining LaTeX packages (using TexLive 2015)
-sudo tlmgr option repository ftp://tug.org/historic/systems/texlive/2015/tlnet-final
+# sudo tlmgr option repository ftp://tug.org/historic/systems/texlive/2015/tlnet-final
 
 # ----------------------------------------------------------------------------
 #   INSTALL ADDITIONAL PACKAGES HERE
 # ----------------------------------------------------------------------------
 
-sudo tlmgr install \
-    hyperref       \
-    parskip        \
-    babel          \
-    tools          \
-    graphics       \
-    xcolor
+# sudo tlmgr install \
+#     hyperref       \
+#     parskip        \
+#     babel          \
+#     tools          \
+#     graphics       \
+#     xcolor
