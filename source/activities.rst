@@ -17,7 +17,7 @@ American Red Cross
 
 **Operational examples:** The American Red Cross used drones domestically for the first time during Hurricanes Harvey and Irma in September 2017. Since 2017, the American Red Cross International Services Department GIS/Data Team has used UAS for mapping activities in collaboration with other societies: these mapping projects have taken place in the Philippines, Haiti, and Belize.
 
-**Summary:** In 2014, representatives of the American Red Cross attended the first United Nations Advisory Round Table on humanitarian UAV technology. In April 2015, the American Red Cross and UAS consulting firm Measure released a joint study entitled "Drones for Disaster Response and Relief Operations." The report described potential use cases for the technology, policy recommendations for the development of favorable UAS regulations, and technical information. 
+**Summary:** In 2014, representatives of the American Red Cross attended the first United Nations Advisory Round Table on humanitarian UAV technology. In April 2015, the American Red Cross and UAS consulting firm Measure released a joint study entitled "Drones for Disaster Response and Relief Operations." The report described potential use cases for the technology, policy recommendations for the development of favorable UAS regulations, and technical information. [#67]_
 
 Since 2017, the International Services Department (ISD) GIS/Data Team has used UAS for several mapping activities in their work with other National Societies. At present, however, there is not an overall, organization-wide strategy for integrating UAS into American Red Cross activities domestically. 
 
@@ -75,7 +75,7 @@ Brazilian Red Cross
 
 **Drones used for:** Post-disaster mapping, public relations photographs.
 
-**Operational examples:** In 2017, the Brazilian Red Cross used drones to search for potential mosquito breeding locations, as part of efforts to fight Dengue fever and Zika virus in urban areas.
+**Operational examples:** In 2017, the Brazilian Red Cross used drones to search for potential mosquito breeding locations, as part of efforts to fight Dengue fever and Zika virus in urban areas. [#68]_
 
 **Summary:** The Brazilian Red Cross currently uses drones to support post-disaster mapping operations, as well as for general situational awareness efforts. Drones are also used to take photographs for promotional materials.
 
@@ -125,7 +125,7 @@ Fiji Red Cross Society
 
 **Operational examples:** Pacific Flying Labs, in coordination with the Fiji Red Cross Society, attempted to use a Phantom 4 Professional drone to document damage from Tropical Cyclone Keni in the Kadavu Region in April 2018. Ultimately, high winds prevented the drone from being flown safely in the area. 
 
-**Summary:** Tropical Cyclone Keni hit Fiji on April 10th 2018, causing widespread damage across the island. The Fiji Red Cross Society and Pacific Flying Labs worked together to collect images of the village of Manuana, combining on-foot surveys and aerial mapping techniques. 
+**Summary:** Tropical Cyclone Keni hit Fiji on April 10th 2018, causing widespread damage across the island. The Fiji Red Cross Society and Pacific Flying Labs worked together to collect images of the village of Manuana, combining on-foot surveys and aerial mapping techniques. [#69]_
 
 ****************
 German Red Cross
@@ -135,7 +135,7 @@ German Red Cross
 
 **Operational examples:** The German Red Cross Kreisverband Limburg (a district association of the German Red Cross) has used its DJI Matrice 200 drone during four SAR operations  at the time of writing. On one occasion, the drone was used to search for signs of a sinkhole in an area where an explosion attributed to unexploded ordnance took place. The drone was used to look at the area to evaluate risk to fire teams. On a second occasion, the drone was used to assess an ongoing 11 acre-wide fire in a national park area. Additionally, the drone was used to assist with searching for missing people on two different occasions. 
 
-**Summary:** The German Red Cross Kreisverband Limburg is actively experimenting with UAS technology at this time to support SAR operations with dogs, facilitate fire department situational awareness, create maps of disaster areas, and to provide lighting for search teams on dark nights. The organization hopes to use UAS equipped with thermal sensors to enhance visual searches for missing people. Additionally, the organization is  working with UgCS specialized software for drone search and rescue operations, which facilitates extensive, comprehensive searches using drones over wide areas. 
+**Summary:** The German Red Cross Kreisverband Limburg is actively experimenting with UAS technology at this time to support SAR operations with dogs, facilitate fire department situational awareness, create maps of disaster areas, and to provide lighting for search teams on dark nights. The organization hopes to use UAS equipped with thermal sensors to enhance visual searches for missing people. Additionally, the organization is  working with UgCS specialized software for drone search and rescue operations, which facilitates extensive, comprehensive searches using drones over wide areas. [#70]_
 
 .. figure:: /images/german-rc.jpeg
    :alt: Drone take off, Ahlbach, Germany, 2019.
@@ -181,7 +181,7 @@ Italian Red Cross
 
 **Operational examples:** 2015 experimental joint exercise in Turin area. 
 
-**Summary:** Desk research indicates that the Italian Red Cross used a drone with Red Cross insignia on it in 2015.  This appears to be linked to a November 2015 joint exercise between the Italian Red Cross and the Politecnico of Turin, in which medical teams and engineers used a thermal-camera equipped drone to assist with a simulated search and rescue operation. In 2016, the Italian Red Cross in Bologna announced a collaboration with the UK-based telematics provider Octo on a "drone intelligence service" for emergency rescue operations. We were unable to contact a representative of the organization for an informational interview for this project. 
+**Summary:** Desk research indicates that the Italian Red Cross used a drone with Red Cross insignia on it in 2015. [#71]_ This appears to be linked to a November 2015 joint exercise between the Italian Red Cross and the Politecnico of Turin, in which medical teams and engineers used a thermal-camera equipped drone to assist with a simulated search and rescue operation. [#72]_ In 2016, the Italian Red Cross in Bologna announced a collaboration with the UK-based telematics provider Octo on a "drone intelligence service" for emergency rescue operations. [#73]_ We were unable to contact a representative of the organization for an informational interview for this project. 
 
 ***********************
 Kenya Red Cross Society
@@ -191,7 +191,7 @@ Kenya Red Cross Society
 
 **Operational examples:** Recent Kenyan Red Cross drone missions (with mentorship from Canadian companies DAC and Altohelix) include: creating drone maps of the Dadab refugee camp, documenting shelter reconstruction efforts and crop health monitoring in Kilifi, flood response and documentation in Moyale, flood search and resuce in West Pokot, and  flood risk mapping in Narok County.
 
-**Summary:** In June 2017, the Kenyan Red Cross used drone footage provided by the Red Cross Red Crescent Climate Centre to convey the scale of flooding in the Ewaso Ngiro river basin. The Kenyan Red Cross began its own drone program in early 2019, working closely with Canada-based companies DAC Aviation and Altohelix. The drone program's goal is to build in-house drone-piloting and drone data-analysis capacity amongst Kenyan Red Cross staff both at headquarters and amongst regional teams. Ultimately, it hopes to be able to provide drone services to the broader humanitarian community, including UNHCR: it also hopes to work with drone-delivery technology (dependent upon the loosening of Kenya's current, strict, drone regulations). Currently, the program works with 2 drone models: the DJI Mavic 2 Enterprise and the Mavic Pro 2, as well as the ArcGIS, Pix4D, and OpenDroneMap software packages.
+**Summary:** In June 2017, the Kenyan Red Cross used drone footage provided by the Red Cross Red Crescent Climate Centre to convey the scale of flooding in the Ewaso Ngiro river basin. [#74]_ The Kenyan Red Cross began its own drone program in early 2019, working closely with Canada-based companies DAC Aviation and Altohelix. The drone program's goal is to build in-house drone-piloting and drone data-analysis capacity amongst Kenyan Red Cross staff both at headquarters and amongst regional teams. Ultimately, it hopes to be able to provide drone services to the broader humanitarian community, including UNHCR: it also hopes to work with drone-delivery technology (dependent upon the loosening of Kenya's current, strict, drone regulations). Currently, the program works with 2 drone models: the DJI Mavic 2 Enterprise and the Mavic Pro 2, as well as the ArcGIS, Pix4D, and OpenDroneMap software packages.
 
 .. figure:: /images/kenya-rc-1.jpeg
    :alt: group photo.
@@ -221,7 +221,7 @@ Lesotho Red Cross Society
 
 **Drones used for:** Mapping, pre-disaster mapping. 
 
-**Operational examples:** Participation in a 2018 training conducted by Tanzania Flying Labs and WeRobotics, with support from World Vision International.
+**Operational examples:** Participation in a 2018 training conducted by Tanzania Flying Labs and WeRobotics, with support from World Vision International. [#76]_
 
 **Summary:** The Lesotho Red Cross Society (LRCS) and World Vision International took part in a 3-day Tanzania Flying Labs/WeRobotics training focused on using drones to acquire and analyze aerial imagery. The training emphasized the creation of drone maps of disaster areas for use in Community Disaster Preparedness Plan (CDPP) development, as well as drone use for rapidly mapping disaster areas for assessment purposes. 
 
@@ -233,7 +233,7 @@ Malawi Red Cross Society
 
 **Operational examples:** Participation in cholera response mapping exercise using drones with UNICEF and LUANAR University. Drones used as part of assessment efforts in response to 2019 flooding. Drone mapping and flood risk assessment work in collaboration with the Netherlands Red Cross in 2018. 
 
-**Summary:** The Malawi Red Cross Society participated in a UNICEF cholera risk mapping project using drones in early 2018, in conjunction with LUANAR university. In 2019, Malawi experienced extensive flooding: as part of the disaster response process, the Malawi Red Cross Society, the Malawi Department of Disaster Management Affairs (DODMA), and UNICEF used drones to capture assessment data in inaccessible areas. In 2018, the Malawi Red Cross Society worked with the Netherlands Red Cross Society to secure permission to fly from Malawi's Civil Aviation Authority (CAA): later in 2018, the two Societies collaborated on flood mapping efforts using drone data in the Chikwawa area.  In 2017, the Malawi Red Cross Society was one of a group of national and local stakeholders who attended a WeRobotics training on the integration of UAV technology into disaster response efforts. 
+**Summary:** The Malawi Red Cross Society participated in a UNICEF cholera risk mapping project using drones in early 2018, in conjunction with LUANAR university. [#77]_ In 2019, Malawi experienced extensive flooding: as part of the disaster response process, the Malawi Red Cross Society, the Malawi Department of Disaster Management Affairs (DODMA), and UNICEF used drones to capture assessment data in inaccessible areas. [#78]_ [#79]_ [#80]_ In 2018, the Malawi Red Cross Society worked with the Netherlands Red Cross Society to secure permission to fly from Malawi's Civil Aviation Authority (CAA): later in 2018, the two Societies collaborated on flood mapping efforts using drone data in the Chikwawa area.  In 2017, the Malawi Red Cross Society was one of a group of national and local stakeholders who attended a WeRobotics training on the integration of UAV technology into disaster response efforts. [#81]_ 
 
 .. figure:: /images/malawi-rc-freya-drone.jpg
    :alt: drone launch.
@@ -259,7 +259,7 @@ The Netherlands Red Cross
 
 **Operational examples:** Damage assessment and mapping in St Maarten following Hurricanes Irma and Maria in 2017. Flood risk mapping and assessment in collaboration with the Malawi Red Cross in 2018. Drone pilot training participation in Sweden in 2018. 
 
-**Summary:** In 2016, the Netherland's Red Cross humanitarian data-focused 510 Initiative begun to experiment with drone technology: 510 team members began to learn to fly drones and to process drone data. In September 2017, the Netherlands Red Cross used a Phantom 4 Professional drone to take photographs of hurricane damage on St Maarten, following Hurricanes Irma and Maria. Drone data was used to conduct damage assessment of buildings, identify roof types and materials, and to better inform the building of shelters.
+**Summary:** In 2016, the Netherland's Red Cross humanitarian data-focused 510 Initiative began to experiment with drone technology: 510 team members began to learn to fly drones and to process drone data. In September 2017, the Netherlands Red Cross used a Phantom 4 Professional drone to take photographs of hurricane damage on St Maarten, following Hurricanes Irma and Maria. Drone data was used to conduct damage assessment of buildings, identify roof types and materials, and to better inform the building of shelters.
 
 In early 2018, the Netherlands Red Cross worked with the Malawi Red Cross to assist that organization with securing permission to fly from Malawi's Civil Aviation Authority. 
 
@@ -283,11 +283,11 @@ Philippine Red Cross
 
 **Drones used for:** Community mapping, disaster preparedness mapping.
 
-**Operational examples:** Community mapping efforts in May 2017 in support of recovery project. 
+**Operational examples:** Community mapping efforts in May 2017 in support of a recovery project. 
 
-**Summary:** In response to the devastation caused by Typhoon Haiyan in 2013, the Phillippine Red Cross and the American Red Cross partnered on Tindog Tabang Leyteño, a 3-year recovery project dedicated to building safer, more resilient communities. In May 2017, the project used drones (an Event 38 E384, a Tuffwing UAV Mapper, and a DJI Mavic Pro) to create updated, high-resolution maps of project focus areas. 
+**Summary:** In response to the devastation caused by Typhoon Haiyan in 2013, the Phillippine Red Cross and the American Red Cross partnered on Tindog Tabang Leyteño, a 3-year recovery project dedicated to building safer, more resilient communities. In May 2017, the project used drones (an Event 38 E384, a Tuffwing UAV Mapper, and a DJI Mavic Pro) to create updated, high-resolution maps of project focus areas. [#82]_ 
 
-In November 2018, the Nokia company announced that it would be supplying the Philippine Red Cross with "portable LTE networks, and artificial intelligence (AI) and analytics tools" to " help with disaster recovery" as part of Nokia's Nokia Saving Lives (NSL) initiative. In December 2019, the Philippine Red Cross announced a new collaboration with US-based drone delivery company Zipline: the project intends to use the Philippines as a base for the " the largest drone delivery operation for blood and medical supplies in the Asia-Pacific region through Zipline," and is slated to launch in the summer of 2020. 
+In November 2018, the Nokia company announced that it would be supplying the Philippine Red Cross with "portable LTE networks, and artificial intelligence (AI) and analytics tools" to " help with disaster recovery" as part of Nokia's Nokia Saving Lives (NSL) initiative. [#83]_ In December 2019, the Philippine Red Cross announced a new collaboration with US-based drone delivery company Zipline: the project intends to use the Philippines as a base for the "the largest drone delivery operation for blood and medical supplies in the Asia-Pacific region through Zipline," and is slated to launch in the summer of 2020. [#84]_
 
 
 .. figure:: /images/philippine-rc.jpg
@@ -352,7 +352,7 @@ The Sri Lanka Red Cross Society
 
 **Operational examples:** Drone used to assess damage from monsoon flooding in 2018. 
 
-**Summary:** The Sri Lanka Red Cross Society is currently using UAV mapping as part of a risk-reduction strategy for climate change, as highlighted in a IPCC report from 2018.  In May 2018, the Sri Lankan Red Cross announced that the Colombo branch had used a waterproof Swell Pro quadcopter-style drone to assess damage from monsoon flooding.
+**Summary:** The Sri Lanka Red Cross Society is currently using UAV mapping as part of a risk-reduction strategy for climate change, as highlighted in a IPCC report from 2018. [#85]_ In May 2018, the Sri Lankan Red Cross announced that the Colombo branch had used a waterproof Swell Pro quadcopter-style drone to assess damage from monsoon flooding. [#86]_
 
 ***********************************
 Tanzania Red Cross National Society
@@ -362,7 +362,7 @@ Tanzania Red Cross National Society
 
 **Operational examples:** 2015 participation in flood-risk reduction mapping exercises. 
 
-**Summary:**  In 2015, the World Bank and Drone Adventures used UAVs to capture imagery of flood-prone areas in Dar es Salaam, in a consortium flood risk-reduction project with the Tanzania Red Cross National Society, the Commission for Science and Technology (COSTECH), the Swedish Development Agency, and the Global Facility for Disaster Risk Reduction. 
+**Summary:**  In 2015, the World Bank and Drone Adventures used UAVs to capture imagery of flood-prone areas in Dar es Salaam, in a consortium flood risk-reduction project [#87]_ with the Tanzania Red Cross National Society, the Commission for Science and Technology (COSTECH), the Swedish Development Agency, and the Global Facility for Disaster Risk Reduction. [#88]_
 
 ****************************
 The Uganda Red Cross Society
