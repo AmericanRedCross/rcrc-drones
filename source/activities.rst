@@ -93,11 +93,11 @@ The Canadian Red Cross Society
 Colombian Red Cross Society
 ***************************
 
-**Drones used for:** ...
+**Drones used for:** Post-disaster mapping, search and rescue.
 
-**Operational examples:** ...
+**Operational examples:** Mapping for emergency response operations after the Mocoa landslide in 2017.
 
-**Summary:** ...
+**Summary:** The Colombian Red Cross Society began integrating drones into their operations in 2016. Initially it was thought to use drones to support search and rescue activities. The National Society has leveraged staff and volunteers who have been trained and certified personally and voluntarily by their own means. In 2017, drones were used in support of emergency response operations after the Mocoa landslide by mapping the area, helping to assess the magnitude of the tragedy and allowing a contextual analysis to ensure staff safety. In 2018, the Colombian Red Cross team participated in a drone training coordinated by WFP. In 2020, the Cundinamarca Branch plans to participate in a training that focuses on the use of drones for risk management, emergency response, and search and rescue operations.
 
 ********************
 Ecuadorian Red Cross
