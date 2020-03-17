@@ -2,7 +2,7 @@
 Timeline of drone use
 #####################
 
-The following is an incomplete timeline of UAS use by Red Cross and Red Crescent Societies since 2013. 
+The following is an incomplete timeline of UAS use by Red Cross and Red Crescent Societies since 2013. We apologize for any usage or events we missed in our research. We would like to hear from you so that we can update this timeline. Please contact daniel.joseph@redcross.org regarding any omissions. 
 
 ****
 2013

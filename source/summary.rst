@@ -2,11 +2,11 @@
 Summary of findings
 ###################
 
-All in all, we were able to identify 24 National Societies around the world who had used drone technology or data in some capacity, or are intentionally working towards using drone technology.  We also confirmed that the International Committee of the Red Cross (ICRC) is developing policy strategies around drone use. 
+All in all, we were able to identify 26 National Societies around the world who had used drone technology or data in some capacity, or are intentionally working towards using drone technology.  We also confirmed that the International Committee of the Red Cross (ICRC) is developing policy strategies around drone use. 
 
 Of the identified National Societies, we conducted approximately hour-long telephone interviews with representatives from 12, using a set of predetermined questions. Four National Societies responded to the same set of predetermined questions via email. We draw upon this combination of desk research and interviews to present these initial conclusions. 
 
-* Of all 24 National Societies identified, six were in Africa, five in Europe, three in Asia, three in North America, three in the Pacific region, and four in South/Central America. 
+* Of the 26 National Societies identified, six were in Africa, five in Europe, seven in Asia Pacific, eight in the Americas (following IFRC region designations).
 
 * The majority of identified National Society drone users work primarily with hardware produced by Chinese drone-maker DJI, the world’s largest consumer drone company. The foldable DJI Mavic Pro and the DJI Phantom 3 Professional were the two most popular DJI models used. 
 
