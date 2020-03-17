@@ -2,6 +2,13 @@
 Drone activities in the network
 ###############################
 
+.. figure:: /images/world.png
+   :alt: Map showing countries where RCRC National Society has used drones.
+   :align: center
+   
+   Countries where the National Society has undertaken activities with drones.
+
+
 ******************
 American Red Cross
 ******************
@@ -54,6 +61,13 @@ Belize Red Cross Society
 **Operational examples:** Using drones to make maps of multiple communities around Belize City, in support of community mapping efforts for disaster resilience. 
 
 **Summary:** The Belize Red Cross Society uses drones primarily for community mapping exercises and for community disaster resilience preparation In its first operational use of drones, the Belize Red Cross initially planned to use drones to map 16 communities in the vicinity of Belize City. The Red Cross drone pilots worked with other Belizean organizations to conduct mapping exercises, including the Belizean Ministry of Natural Resources, the Lands and Geology Department, and the National Emergency Management Organization. Drone data was used to augment out-of-date Google maps, and to help communities develop disaster risk awareness and planning strategies, giving them a "big picture" view of their homes.  The Belize Red Cross hopes that communities will use these maps and the training provided to them as a means of developing "sustainable" disaster response systems and strategies: they also hope that the UAS-created maps will be shared throughout the Belize emergency management community when the next disaster hits.
+
+.. figure:: /images/belize-rc-flying-practice.jpg
+   :alt: Terence Woodye of the Belize Red Cross practices flying a DJI Phantom drone.
+   :align: center
+   
+   Terence Woodye of the Belize Red Cross practices flying a DJI Phantom drone. | *Credit: Dan Joseph, American Red Cross.*
+
 
 *******************
 Brazilian Red Cross

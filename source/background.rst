@@ -14,6 +14,12 @@ The vast majority of the drones used by the National Societies described in this
 
 While "delivery drones" are a hot topic in the tech world today, they remain largely experimental for a number of technical and regulatory reasons. This was reflected in our report findings. No National Society described in this study reported using drones for delivery purposes, although some individuals interviewed expressed interest in the future prospect of doing so. 
 
+.. figure:: /images/pmi-phantom-setup.jpg
+  :alt: PMI team prepares a DJI Phantom for launch.
+  :align: center
+  
+  PMI team prepares a DJI Phantom for launch. | *Credit: PMI.*  
+
 **********************************************
 How drones are used in disaster response today
 **********************************************
@@ -26,6 +32,12 @@ The 2015 Nepal earthquake saw what was likely the first wide-scale deployment of
 
 Today, many humanitarian response groups around the world are actively experimenting with drone technology. They are using drones for many different purposes,  including post-disaster mapping, creating maps for pre-disaster planning, generating videos and photographs for public relations campaigns, acquiring an "eye in the sky" for situational awareness during chaotic situations, generating 3D models for post-disaster structural analysis, and using high-resolution maps created with drone imagery to monitor swiftly-growing refugee camps. 
 
+.. figure:: /images/american-rc-e384.png
+   :alt: Matthew Gibb prepares an Event 38 E384 fixed wing mapping drone for launch.
+   :align: center
+   
+   Matthew Gibb prepares an Event 38 E384 fixed-wing mapping drone for launch. | *Credit: Dan Joseph, American Red Cross.*
+
 United Nations agencies have worked with drone technology since at least 2012, when the GIS unit of the International Organization for Migration (IOM) and the National Statistics Office of Haiti used drones to capture high-resolution imagery of slum areas in Haiti, in support of the post-earthquake census there. [#fsd-case_study_7]_ Since 2017, IOM has used fixed-wing Sensefly eBee drones to make regular maps of the enormous Kutapalong Refugee Camp in Bangladesh, in an effort to ensure that their understanding of the constantly changing camp environment is up-to-date. IOM regularly uploads the resulting drone data to the Humanitarian Data Exchange website and to the OpenAerialMap imagery repository, where it is publicly available and free to use. [#pix4d-mapping_refugee_camp]_ , [#iom-needs_and_pop_monitoring]_  
 
 In 2017, the United Nations World Food Programme (WFP) and the Government of Belgium announced a new initiative exploring drone use in humanitarian aid, with funding provided by the Belgian Development Cooperation: in 2018, Belgium committed $2.33 million more in funding for WFP's drone and blockchain programs. [#lieberman-q_and_a]_ [#wfp-start_efforts]_ WFP has used drones in a number of real-world projects in the recent past. During the 2017 response to Hurricanes Irma and Maria, WFP's Panama regional office used a drone to assess housing damage and to gain situational awareness. [#buitrago-angel_and_the_drones]_ Since 2017, WFP has used drones to support climate-change mitigation mapping in Colombia, to assess flood vulnerability risk in Mozambique, and has conducted drone workshops and capacity-building exercises in the Dominican Republic, Mozambique, Madagascar, Myanmar, Peru, Colombia, Nepal, Niger, and Bolivia. [#chojnacka-community_driven_change]_ [#rae-cyclone_desmond]_ [#chojnacka-now_all_the_boats]_ 
@@ -37,6 +49,12 @@ The Humanitarian OpenStreetMap (HOT) Team is a not-for-profit organization and g
 The World Bank has been another relatively early-adopter of drone technology in the humanitarian and development sector. In 2015, the World Bank partnered with Swiss drone-NGO Drone Adventures and the Ramani Huria community flood-mapping project [#darramanihuria-about_us]_ to fly drones over flood-prone areas of Dar Es Salaam, Tanzania. [#gfdrr-drr_to_new_heights]_ Analysts used the drone data to update outdated maps of city settlements, and then used those maps to simulate the effects of future floods - affording them a much clearer picture of which areas are most at risk. The ongoing Ramani Huria project now regularly uses drones as part of its mapping strategy, through a workflow that consists of uploading the imagery to OpenAerialMap, updating OpenStreetMap accordingly, and then for analysis and processing leveraging InaSAFE, a free software that produces realistic natural hazard impact scenarios. [#inasafe]_ The World Bank has also used drones for post-disaster mapping in Vanuatu [#wb-lessons_from_mapping_geeks]_ and in Tonga, [#wb-tonga_drone_led_assessments]_ for updating and improving cadastral maps in Kosovo, [#wb-innovative_solution_for_local_mapping]_ and for supervising the development of water infrastructure projects in the Democratic Republic of the Congo, [#boulenger-birds_eye_view]_ amongst other initiatives. 
 
 Some non-governmental organizations are specifically oriented around using drone technology and robotics for disaster response and aid. The largest of these is WeRobotics, a not-for-profit organization whose stated mission is to foster the use of drone technology for humanitarian aid and development purposes around the world. WeRobotics works with public and private partners to launch networked "Flying Labs" in each country that it operates in. These Flying Labs are meant to function as centers of expertise and experience with drone (and other robotics) technology, and are intended to provide training and support to other stakeholders who wish to use drones to support public good. WeRobotics has also recently begun to offer delivery/cargo drone solutions for its customers. [#werobotics-cargo_drones]_ A number of the National Societies profiled in this study have received training from or otherwise worked with these Flying Labs on drone-related projects. 
+
+.. figure:: /images/german-rc-thermal-view.png
+   :alt: Drone take off, Ahlbach, Germany, 2019.
+   :align: center
+   
+   Investigation with FLIR thermal camera for fire department. 32 acre burning field within a protected landscape in Mensfelden, Germany, 2019. | *Credit: Kai Brunner, German Red Cross - Kreisverband Limburg e.V..*
 
 *************************
 Regulatory Considerations
