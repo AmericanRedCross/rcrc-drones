@@ -8,6 +8,8 @@ A review of drone use in the RCRC global network
 
 You can also download a `PDF of the report <./Aid_from_the_Air.pdf>`_.
 
+*The initial research was conducted September 2019 to February 2020. The information here will be updated as more details become available.*
+
 .. figure:: /images/american-rc-canaan2.jpg
    :alt: Aerial view from a drone of a Haitian Red Cross Land Cruiser.
    :align: center

@@ -6,7 +6,7 @@ We have plentiful evidence that drones are a useful - and increasingly widely us
 
 Twenty-six National Societies are using or plan to use drones, in a variety of ways. These use-cases include monitoring IDP camp construction; community mapping for resiliency projects; conducting search and rescue operations; post-disaster mapping after landslides and earthquakes; and capturing photographs and video for communications purposes. More use cases are likely to be added in the near future, as Societies grow more comfortable with drones and find new applications for the technology. 
 
-We found that these 23 National Societies are largely not collaborating with one another on drone projects, or currently speaking with one another about the use of drone technology.  A number of interviewees expressed interest in connecting and collaborating with other drone users at other National Societies in the future. 
+We found that these 26 National Societies are largely not collaborating with one another on drone projects, or currently speaking with one another about the use of drone technology.  A number of interviewees expressed interest in connecting and collaborating with other drone users at other National Societies in the future. 
 
 Currently, the IFRC has no centralized source of contextualized information on drone technology. The IFRC does not currently promote or organize experience-sharing opportunities around drone technology. 
 

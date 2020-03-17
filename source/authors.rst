@@ -18,7 +18,7 @@ Dan is a Solutions Engineer with the American Red Cross International Services D
 Methods
 #######
 
-Specific search terms were used to identify press releases, reports, and other sources describing RCRC drone uses. Various networks such as Surge Information Management Support (SIMS) were queried about any knowledge of drone uses. Identified National Society staff and volunteers were asked about any drone use cases that they were themselves aware of.  
+The initial research was conducted September 2019 to February 2020. Specific search terms were used to identify press releases, reports, and other sources describing RCRC drone uses. Various networks such as Surge Information Management Support (SIMS) were queried about any knowledge of drone uses. Identified National Society staff and volunteers were asked about any drone use cases that they were themselves aware of.  
 
 We conducted a total of 17 written and telephone interviews with RCRC or ICRC staff and volunteers. After we confirmed that drones had been used by a National Society in some capacity, we attempted to reach out to representatives of that National Society to identify the individuals who had piloted or otherwise worked closely with the technology. With the consent of the interviewee, all interviews were recorded. 
 
