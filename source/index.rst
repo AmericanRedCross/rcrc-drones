@@ -4,7 +4,7 @@
 	contain the root `toctree` directive.
 
 Aid from the Air: A review of drone use in the RCRC global network
-=================================================================
+==================================================================
 
 The initial research was conducted September 2019 to February 2020 by Faine Greenwood and Dan Joseph. The information here will be updated as more details become available. You can read online, or download a `PDF of the report <./Aid_from_the_Air.pdf>`_.
 
