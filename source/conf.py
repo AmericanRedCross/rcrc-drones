@@ -48,6 +48,7 @@ master_doc = 'index'
 # General information about the project.
 project = u'Drones in the RCRC'
 html_show_copyright = False
+copyright = u'2020, Faine Greenwood, Dan Joseph'
 author = u'Faine Greenwood, Dan Joseph'
 
 # The version info for the project you're documenting, acts as replacement for
