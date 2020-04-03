@@ -3,7 +3,7 @@
    :og:title: Drones in the RCRC
    :og:type: website
    :og:description: A review of drone use in the Red Cross Red Crescent global network
-   :twitter:image: https://americanredcross.github.io/rcrc-drones/_images/meta/twitter-img.png
-   :og:image: https://americanredcross.github.io/rcrc-drones/_images/meta/og-img.png
+   :twitter:image: https://github.com/AmericanRedCross/rcrc-drones/blob/publish/meta/twitter-img.png
+   :og:image: https://github.com/AmericanRedCross/rcrc-drones/blob/publish/meta/og-img.png
    :og:image:width: 1200
    :og:image:height: 627
