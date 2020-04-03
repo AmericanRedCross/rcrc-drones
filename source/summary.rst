@@ -1,3 +1,5 @@
+.. include:: meta.txt
+
 ###################
 Summary of findings
 ###################

@@ -1,3 +1,5 @@
+.. include:: meta.txt
+
 ###############################
 Drone activities in the network
 ###############################

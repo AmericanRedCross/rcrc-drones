@@ -1,3 +1,5 @@
+.. include:: meta.txt
+
 ##########
 Conclusion
 ##########

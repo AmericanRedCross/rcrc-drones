@@ -1,3 +1,5 @@
+.. include:: meta.txt
+
 #####################################################
 Benefits and costs of drone use for disaster response
 #####################################################
