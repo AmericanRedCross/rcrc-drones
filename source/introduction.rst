@@ -4,6 +4,9 @@
 Introduction
 ############
 
+| *You can check for updates to this document and read it online at:*
+| https://americanredcross.github.io/rcrc-drones/
+
 Unmanned aerial vehicles, or drones, have become an increasingly common sight in disaster response operations around the world. Small, inexpensive consumer drones equipped with cameras can capture high quality photographs and video, create geographically accurate maps, and livestream footage to multiple locations on the ground.
 
 Like many disaster response organizations, National Red Cross and Red Crescent (RCRC) Societies around the world have begun to experiment with using civilian drones to support and streamline their activities and operations. However, up until now, little information existed that attempted to describe or quantify how many RCRC Societies were using drones, or what they were using drones for. 
