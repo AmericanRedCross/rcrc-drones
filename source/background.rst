@@ -59,7 +59,7 @@ Some non-governmental organizations are specifically oriented around using drone
    Investigation with FLIR thermal camera for fire department. 32 acre burning field within a protected landscape in Mensfelden, Germany, 2019. | *Credit: Kai Brunner, German Red Cross - Kreisverband Limburg e.V..*
 
 *************************
-Regulatory Considerations
+Regulatory considerations
 *************************
 
 Aspiring humanitarian drone users must contend with a complex regulatory environment, in which the only true constant is constant change. Some countries have elaborate and fully-developed drone regulations, while others have no specific laws regarding the technology at all. Some countries ban drone use entirely, some only permit certain licensed users to operate them, and others have very loose restrictions. [#global_drone_regulations_database]_ 
@@ -69,7 +69,7 @@ National regulations have an enormous impact on what is practically possible for
 The transitional nature of drone laws presents humanitarian users with both opportunity and with risk. They can use their good reputations to influence the passage of new laws that facilitate or protect the humanitarian use of drone technology. In some countries, National Societies are doing just this, by actively working with civil aviation authorities to develop drone regulations that take humanitarian use cases into account. Still, the reputational advantage that comes from aid worker's usually-good reputations goes both ways.  If humanitarians use drones in risky, irresponsible, or unethical ways, the overall public reputation of their organization may suffer - and regulators may decide to pass stricter laws that make it very hard for disaster responders to use drones in the field. 
 
 **********************
-Ethical Considerations
+Ethical considerations
 **********************
 
 The use of drones in humanitarian aid remains controversial, and the technology remains somewhat poorly understood by the public at large. Small civilian drones are often conflated with or associated with the large, weaponized drones used by militaries around the world. In recent years, armed groups have occasionally equipped small drones with explosive weapons as well. 
