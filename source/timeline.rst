@@ -190,7 +190,10 @@ March
 
 As part of the COVID-19 response, the Korean Red Cross uses a drone to disinfect high-risk spots at the Red Cross Hospital in Gyeongsang-do. [#status_1235852877119160322]_
 
+July
+====
 
+The Italian Red Cross RPAS training centre in Bologna, which first opened in 2017, is recognized as "state flight" by the national civil aviation authority (ENAC). The Italian Red Cross aims to standardize training and capacities for all personnel to support search and rescue activities. [#66]_
 
 .. rubric:: Footnotes
 
@@ -227,3 +230,4 @@ As part of the COVID-19 response, the Korean Red Cross uses a drone to disinfect
 .. [#64] Chris Mills Rodrigo. "Drone footage shows devastation from cyclone in Mozambique." The Hill. March 19, 2019. https://thehill.com/policy/international/434734-drone-coverage-shows-devastation-from-cyclone-in-mozambique
 .. [#65] Dan Joseph, Seth Fitzsimmons. "POSM 0.9 - Passel of POSMs." American Red Cross. August 7, 2019. https://americanredcross.github.io/2019/08/07/posm-9-release/
 .. [#status_1235852877119160322]  IFRC Asia Pacific. Twitter. https://twitter.com/IFRCAsiaPacific/status/1235852877119160322
+.. [#66]  Centro Addestramento Nazionale SAPR (Sistemi di Aeromobile a Pilotaggio Remoto). https://www.cri.it/centroaddestramentodroni

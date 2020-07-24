@@ -183,7 +183,7 @@ Italian Red Cross
 
 **Operational examples:** 2015 experimental joint exercise in Turin area. 
 
-**Summary:** Desk research indicates that the Italian Red Cross used a drone with Red Cross insignia on it in 2015. [#71]_ This appears to be linked to a November 2015 joint exercise between the Italian Red Cross and the Politecnico of Turin, in which medical teams and engineers used a thermal-camera equipped drone to assist with a simulated search and rescue operation. [#72]_ In 2016, the Italian Red Cross in Bologna announced a collaboration with the UK-based telematics provider Octo on a "drone intelligence service" for emergency rescue operations. [#73]_ We were unable to contact a representative of the organization for an informational interview for this project. 
+**Summary:** Desk research indicates that the Italian Red Cross used a drone with Red Cross insignia on it in 2015. [#71]_ This appears to be linked to a November 2015 joint exercise between the Italian Red Cross and the Politecnico of Turin, in which medical teams and engineers used a thermal-camera equipped drone to assist with a simulated search and rescue operation. [#72]_ In 2016, the Italian Red Cross in Bologna announced a collaboration with the UK-based telematics provider Octo on a "drone intelligence service" for emergency rescue operations. [#73]_  In 2017, the Italian Red Cross opened am RPAS training centre in Bologna. In 2020, the training centre was recognized as "state flight" by the national civil aviation authority (ENAC). [#89]_
 
 ***********************
 Kenya Red Cross Society
@@ -406,3 +406,4 @@ The Uganda Red Cross Society
 .. [#86] "Disaster Response Units of Red Cross standing by to assist in case weather worsens." Sri Lanka Red Cross Society. May 18, 2018. http://www.redcross.lk/main-news/disaster-response-units-of-red-cross-standing-by-to-assist-in-case-weather-worsens/
 .. [#87] Julie Arrighi. "Dar es Salaam workshop charts future of inter-agency programme for flood resilience in Tanzanian commercial capital." Climate Centre. November 14, 2016. https://www.climatecentre.org/news/799/dar-es-salaam-workshop-charts-future-of-inter-agency-programme-for-flood-resilience-in-tanzanian-commercial-capital
 .. [#88] "World Bank Using UAVs for Disaster Risk Reduction in Tanzania." OpenDRI. August 19, 2015. https://opendri.org/world-bank-using-uavs-for-disaster-risk-reduction-in-tanzania/
+.. [#89]  Centro Addestramento Nazionale SAPR (Sistemi di Aeromobile a Pilotaggio Remoto). https://www.cri.it/centroaddestramentodroni

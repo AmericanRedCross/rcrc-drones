@@ -78,9 +78,9 @@ Supporting further research into humanitarian drone use
 
 At the time of writing, little academic or non-academic research work exists on the operational use of drones in humanitarian and disaster response settings. This lack of objective information makes it difficult for organizations to develop well-informed sets of best practices and ethical guidelines around drone use. The RCRC global network should consider prioritizing supporting research work by National Societies or resource centers to add to the overall body of knowledge around humanitarian drones. National Societies who use drones should be encouraged and supported in writing up their experiences and disseminating these documents across the wider network. 
 
-******************************************
-Sharing airspace (and information ) safely
-****************************************** 
+*****************************************
+Sharing airspace (and information) safely
+***************************************** 
 
 Sharing the skies safely is of essential importance for humanitarian drone users. The ICAO and a number of nations around the world are currently developing strategies for UTM (unmanned traffic management) systems, which will integrate small UAS into the broader airspace. These systems will likely use different technical and operational techniques to make UAS visible to manned aircraft, air traffic monitors, and other users of public airspace. Red Cross drone users should keep up with these upcoming developments in national and international UTM systems,  and should take them into account when developing internal best practices and procedures. 
 
