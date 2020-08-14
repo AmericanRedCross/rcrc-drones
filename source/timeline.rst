@@ -195,6 +195,12 @@ July
 
 The Italian Red Cross RPAS training centre in Bologna, which first opened in 2017, is recognized as "state flight" by the national civil aviation authority (ENAC). The Italian Red Cross aims to standardize training and capacities for all personnel to support search and rescue activities. [#66]_
 
+August
+======
+
+The British Red Cross uses drone footage for media communications to show the devastation in Beirut caused by the explosion at the port. [#67]_
+
+
 .. rubric:: Footnotes
 
 .. [#uasrapidmap_2013] Markus Reuster et al. "Unmanned Aerial Systems for Rapid Mapping UASRapidMap 2013." 4th JRC ECML Crisis Management Technology Workshop, JRC Scientific and Policy Reports. European Commission Joint Research Centre. 2013. http://unosat.web.cern.ch/unosat/unitar/publications/unmannedAerialSystemsRapidMapping.pdf
@@ -231,3 +237,4 @@ The Italian Red Cross RPAS training centre in Bologna, which first opened in 201
 .. [#65] Dan Joseph, Seth Fitzsimmons. "POSM 0.9 - Passel of POSMs." American Red Cross. August 7, 2019. https://americanredcross.github.io/2019/08/07/posm-9-release/
 .. [#status_1235852877119160322]  IFRC Asia Pacific. Twitter. https://twitter.com/IFRCAsiaPacific/status/1235852877119160322
 .. [#66]  Centro Addestramento Nazionale SAPR (Sistemi di Aeromobile a Pilotaggio Remoto). https://www.cri.it/centroaddestramentodroni
+.. [#67] British Red Cross. Twitter. https://twitter.com/BritishRedCross/status/1293561021974675462
