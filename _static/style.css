@@ -1,0 +1,22 @@
+/* .navbar-inverse {
+  background-color: #fff;
+  border-color: grey;
+}
+.navbar-inverse .navbar-brand {
+    color: initial;
+} */
+
+h1 { font-size: 32px; }
+h2 { font-size: 24px; }
+h3 { font-size: 18px; }
+h4 { font-size: 16px; }
+
+.toc-backref {color: black; }
+
+blockquote {
+  font-size: inherit;
+}
+
+.caption .caption-number {
+  display: none;
+}
