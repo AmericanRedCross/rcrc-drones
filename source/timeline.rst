@@ -203,8 +203,8 @@ The British Red Cross uses drone footage for media communications to show the de
 
 .. rubric:: Footnotes
 
-.. [#uasrapidmap_2013] Markus Reuster et al. "Unmanned Aerial Systems for Rapid Mapping UASRapidMap 2013." 4th JRC ECML Crisis Management Technology Workshop, JRC Scientific and Policy Reports. European Commission Joint Research Centre. 2013. http://unosat.web.cern.ch/unosat/unitar/publications/unmannedAerialSystemsRapidMapping.pdf
-.. [#35] "Case Study No 9: Using Drone Imagery for real-time information after Typhoon Haiyan in The Philippines."  FSD. August 26, 2016.  https://drones.fsd.ch/en/3642/
+.. [#uasrapidmap_2013] Markus Reuster et al. "Unmanned Aerial Systems for Rapid Mapping UASRapidMap 2013." 4th JRC ECML Crisis Management Technology Workshop, JRC Scientific and Policy Reports. European Commission Joint Research Centre. 2013. https://unitar.org/sites/default/files/media/publication/doc/UNOSAT-unmannedAerialSystemsRapidMapping.pdf
+.. [#35] "Case Study No 9: Using Drone Imagery for real-time information after Typhoon Haiyan in The Philippines."  FSD. August 26, 2016.  https://reliefweb.int/report/philippines/drones-humanitarian-action-case-study-no9-using-drone-imagery-real-time
 .. [#36] International Federation of Red Cross and Red Crescent Societies; American Red Cross.  "A Vision for the Humanitarian Use of Emerging Technology for Emerging Needs." ALNAP. February 1, 2015. https://www.alnap.org/help-library/a-vision-for-the-humanitarian-use-of-emerging-technology-for-emerging-needs.
 .. [#37] Aerialtronics. "Drones can save lives in search and rescue mission after avalanche." March 30, 2015. https://www.aerialtronics.com/2015/03/drones-can-save-lives-in-search-and-rescue-mission-after-avalanche
 .. [#38] Measure. "American Red Cross And Measure Study Shows Drones Can Save Lives And Help Rebuild Communities #dronesforgood #droneasaservice." PR News Wire. April 21, 2015. https://www.prnewswire.com/news-releases/american-red-cross-and-measure-study-shows-drones-can-save-lives-and-help-rebuild-communities-dronesforgood-droneasaservice-300069410.html
